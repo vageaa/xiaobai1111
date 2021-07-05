@@ -4,4 +4,6 @@ win请下载exe包
 
 mac请下载dmg包
 
+ios请查看ios下载教程
+
 win系统报错：缺失framework文件，请下载并安装.NET包
