@@ -20,6 +20,7 @@ ios请查看ios下载教程
 
 ## 官网实时更新
 由于国内限制，域名可能被封，请认准github地址：https://github.com/vageaa/xiaobai1111
+
 我们将及时为您更新新的小白官网地址：https://xb0004.xyz
 
 ## window安装
