@@ -24,8 +24,10 @@ ios请查看ios下载教程
 我们将及时为您更新新的小白官网地址：https://xb0004.xyz
 
 ## window安装
+window操作系统直接下载Jiasuqi-xb-1.7.0.apk执行文件安装使用
 
 ## mac安装
+mac操作系用直接下载Jiasuqi-1.2.0.dmg安装使用
 
 ## 安卓安装
 
